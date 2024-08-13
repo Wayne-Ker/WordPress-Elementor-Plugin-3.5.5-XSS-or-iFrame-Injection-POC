@@ -56,6 +56,10 @@ Choose payload: (1) XSS or (2) iFrame Injection: 1
 Enter the XSS alert message (e.g., 'xss'): Hello
 XSS Payload URL: http://example.com/#elementor-action:action=lightbox&settings=...
 ```
+## Thanks
+
+Special thanks to the original exploit author for their work on identifying and documenting the vulnerability. Their efforts have been instrumental in creating this tool.
+https://github.com/Wayne-Ker
 
 ## Disclaimer
 
