@@ -21,6 +21,12 @@ Install the required libraries with:
 pip install requests colorama
 ```
 
+## Google Dork 
+```bash
+*inurl:"/wp-content/plugins/elementor"
+```
+
+
 ## Usage
 
 1. Clone the repository:
